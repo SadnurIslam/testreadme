@@ -84,16 +84,22 @@ npm install
 npm run dev
 ```
 
+---
+
 ## 🧾 Packages Used
-Package	Purpose
-react-router-dom	Routing and navigation
-firebase	Authentication
-axios	API requests
-react-hot-toast	Success/error messages
-react-tooltip	Tooltip display
-tailwindcss + daisyui	Styling & themes
-date-fns	Formatting timestamps
-framer-motion	Animations (optional)
+
+| Package | Purpose |
+|---------|---------|
+| react-router-dom | Routing and navigation |
+| firebase | Authentication |
+| axios | API requests |
+| react-hot-toast | Success/error messages |
+| react-tooltip | Tooltip display |
+| tailwindcss + daisyui | Styling & themes |
+| date-fns | Formatting timestamps |
+| framer-motion | Animations (optional) |
+
+---
 
 ## 🧑‍💻 Author
 
