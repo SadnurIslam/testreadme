@@ -65,7 +65,7 @@ VITE_firebase_storageBucket=your_firebase_storageBucket
 VITE_firebase_messagingSenderId=your_firebase_messagingSenderId
 VITE_firebase_appId=your_firebase_appId
 
-🚀 Run Locally
+## 🚀 Run Locally
 
 # Clone the repo
 git clone https://github.com/yourusername/the-book-haven-client.git
@@ -79,7 +79,7 @@ npm install
 # Run the app
 npm run dev
 
-🧾 Packages Used
+## 🧾 Packages Used
 Package	Purpose
 react-router-dom	Routing and navigation
 firebase	Authentication
@@ -89,7 +89,8 @@ react-tooltip	Tooltip display
 tailwindcss + daisyui	Styling & themes
 date-fns	Formatting timestamps
 framer-motion	Animations (optional)
-🧑‍💻 Author
+
+## 🧑‍💻 Author
 
 Developer: [Your Name]
 📧 Contact: [your email or portfolio link]
