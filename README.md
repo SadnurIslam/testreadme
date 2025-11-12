@@ -70,17 +70,19 @@ VITE_firebase_appId=your_firebase_appId
 
 ## 🚀 Run Locally
 
+```bash
 # Clone the repo
-git clone https://github.com/yourusername/the-book-haven-client.git
+git clone https://github.com/yourusername/gamehub-client.git
 
 # Go to project directory
-cd the-book-haven-client
+cd gamehub-client
 
 # Install dependencies
 npm install
 
 # Run the app
 npm run dev
+```
 
 ## 🧾 Packages Used
 Package	Purpose
